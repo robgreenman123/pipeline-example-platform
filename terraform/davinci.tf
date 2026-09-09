@@ -40,4 +40,3 @@ resource "davinci_connection" "annotation" {
   connector_id   = "annotationConnector"
   name           = "Annotation"
 }
-#comment
