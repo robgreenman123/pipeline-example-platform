@@ -25,7 +25,7 @@ resource "davinci_connection" "sso" {
   property {
     name  = "region"
     type  = "string"
-    value = "NA"
+    value = "EU"
   }
 }
 
